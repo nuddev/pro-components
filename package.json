@@ -35,7 +35,7 @@
     "ie >= 11"
   ],
   "resolutions": {
-    "prettier":"2.x"
+    "prettier": "2.x"
   },
   "devDependencies": {
     "@ant-design/icons": "^4.6.2",
